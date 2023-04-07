@@ -1,4 +1,4 @@
-import Questions from "@/components/question";
+import Questions from "@/components/Question";
 
 export const getStaticProps = async () => {
   const res = await fetch('https://dummyjson.com/products');
