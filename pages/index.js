@@ -1,4 +1,4 @@
-import Questions from '@/components/question';
+import Questions from '@/components/Question';
 import Head from 'next/head'
 
 export const getStaticProps = async () => {
